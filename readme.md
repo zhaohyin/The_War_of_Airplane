@@ -14,5 +14,5 @@
 - 碰撞检测：1）敌机与子弹；2）英雄与敌机
 - 人机交互：通过调用监听来获取事件类型，从而完成相关事件的内容
 
-![image]("https://github.com/zhaohyin/The_War_of_Airplane/blob/master/PIC/GUI.png"width=30%height=30% )
+<img src="https://github.com/zhaohyin/The_War_of_Airplane/blob/master/PIC/GUI.png" width="50%" height="50%" div align=center />
 
